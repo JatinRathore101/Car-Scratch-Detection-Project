@@ -1,0 +1,8 @@
+path: ../Dataset_up  # dataset root dir
+train: images/Dataset  # train images (relative to 'path') 128 images
+val: images/Images1  # val images (relative to 'path') 128 images
+test:  # test images (optional)
+
+# Classes
+names:
+  0: scratch

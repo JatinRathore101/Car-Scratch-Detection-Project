@@ -1,0 +1,6 @@
+path: ../data
+train: Images
+val: Images
+# Classes
+names:
+  0: scratch

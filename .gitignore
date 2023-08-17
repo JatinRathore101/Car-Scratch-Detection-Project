@@ -1,2 +1,5 @@
-YoloV5Trainer.csv
-*.csv
+yolov5m.pt
+runs
+*.pt
+Dataset_up
+datasets
